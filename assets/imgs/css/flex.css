@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #612406;
+  font-size: larger;
+}
+
+.div-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: #fbf7e3;
+  border-radius: 40px;
+  padding: 40px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 30px;
+  margin-block: 30px;
+  flex-wrap: wrap;
+}

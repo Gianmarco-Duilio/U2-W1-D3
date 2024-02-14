@@ -1,0 +1,15 @@
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 20px;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.honey {
+  width: 100%;
+}
+.honey img {
+  width: 100%;
+}
