@@ -7,9 +7,10 @@ ul {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  padding: 30px;
+  padding: 9px;
   margin-block: 30px;
 }
+
 nav {
   background-color: #fbf7e3;
   width: 100%;
@@ -27,8 +28,8 @@ li {
   flex-direction: row;
   align-items: center;
   background-color: #f3df85;
-  margin: 10px;
-  padding: 20px;
+  margin: 0px;
+  padding: 15px;
   border-radius: 60px;
 }
 .list-img {
